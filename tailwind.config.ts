@@ -19,7 +19,7 @@ export default {
         "border-secondary": "#323234",
         "border-tertiary": "#97979B",
         "accent-purple": "#6D28D9",
-        "accent-green": "87BB2D",
+        "accent-green": "#32CD32",
         "accent-pink": "#B5446B",
       },
     },
