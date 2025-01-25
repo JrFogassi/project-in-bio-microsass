@@ -1,3 +1,5 @@
+import { cn } from "@/app/lib/utils";
+
 export default function Button({
     children,
     variant = "primary",
@@ -16,7 +18,7 @@ export default function Button({
                 variant === "ghost" && "border-border-primary",
                 props.className
             )}
-    >
+        >
             {children}
         </button>
     );
